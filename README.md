@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Lukas Dehaen
+ - Wolf Vergels
 
 > Artevelde University College Ghent
 
@@ -17,14 +17,14 @@ Productiedossier
 
 ```
 PS> c
-PS> git clone «REPOSITORY-URL» «MAPNAAM»
-PS> c «MAPNAAM»
+PS> git clone «repository-url» «mapnaam»
+PS> c «mapnaam»
 PS> git submodule update --init
 PS> git submodule foreach 'git checkout v4-dev'
 ```
 
 ```
-PS> c «MAPNAAM»
+PS> c «mapnaam»
 PS> cd docs
 PS> bundle update
 PS> bundle exec jekyll serve
@@ -36,8 +36,8 @@ Als je aan een eigen project Bootstrap als een **Git Submodule** wil toevoegen.
 
 ```
 PS> c
-PS> mkdir «MAPNAAM»
-PS> c «MAPNAAM»
+PS> mkdir «mapnaam»
+PS> c «mapnaam»
 PS> git init
 PS> git submodule add --branch v4-dev --depth 1 https://github.com/twbs/bootstrap/ docs/_vendor/bootstrap
 PS> git submodule foreach 'git checkout v4-dev'
@@ -53,12 +53,12 @@ In `docs/_config.yml` pas je de `baseurl` aan, van:
 baseurl: /1718-nmd3-project # the subpath of your site, e.g. /blog
 ```
 
-naar `/«REPOSITORYNAAM»` (bv. `/1718-nmd3-project-Bartmi`):
+naar `«repositorynaam»` (bv. `1718-nmd3-project-Bartmi`):
 
 ```
 # Site settings
 # ─────────────
-baseurl: /«REPOSITORYNAAM» # the subpath of your site, e.g. /blog
+baseurl: /«repositorynaam» # the subpath of your site, e.g. /blog
 ```
 
 ### GitHub Pages Configuratie

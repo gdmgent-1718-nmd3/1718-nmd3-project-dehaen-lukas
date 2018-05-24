@@ -1,28 +1,40 @@
-# ╔═══════════╗
-# ║ Student 1 ║
-# ╚═══════════╝
+# ╔══════════════╗
+# ║ Lukas Dehaen ║
+# ╚══════════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Briefing
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 15
+  task: Hoorcolleges
+-
+  time: 18
+  task: Werkcolleges
+-
+  time: 5
+  task: Elevator Pitch (Design en opvoering)
+-
+  time: 5
+  task: Bezoek museum en verwerking interviews
+-
+  time: 10
+  task: Define fase
 -
   time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  task: Styletiles
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 15
+  task: Smartwatch-App Wireflow & Screen Designs
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 9
+  task: Smartphone-App Wireflow & Screen Designs
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 6
+  task: Website Sitemap, Wireframes & Screen Designs
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 15
+  task: Opstellen productiedossier
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 8
+  task: Opstellen Digital UI Style Guide

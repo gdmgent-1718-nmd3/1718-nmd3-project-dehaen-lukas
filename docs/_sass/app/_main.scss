@@ -6,3 +6,96 @@
   "layout",
   "navigation",
   "scrollbar";
+
+.img {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom:30px;
+}
+
+.imgtall {
+    width: 30%;
+}
+
+.imgwidth {
+    height: 300px;
+}
+
+.img50{
+  width: 50%;
+}
+
+.imgleft{
+  font-family: $font;
+}
+
+.table {
+  font-family: $font;
+}
+
+.color {
+  padding: 30px;
+  color: white;
+  text-align: center;
+  text-shadow: 0px 6px 20px #000;
+  
+}
+
+.lightgrey {
+  background-color: #EEEEEE;
+}
+.grey {
+  background-color: #494949;
+}
+.darkgrey {
+  background-color: #303030;
+}
+.black {
+  background-color: #000000;
+}
+.purple {
+  background-color: $secondary;
+}
+.gradient {
+ 
+  background: -webkit-linear-gradient(top left, #F7C03A, #C52170);
+  background: -o-linear-gradient(top left, #F7C03A, #C52170);
+  background: linear-gradient(to bottom right, #F7C03A, #C52170);
+}
+
+.language {
+  font-family: $font;
+  font-size: 40px;
+  font-weight: 600;
+  color: white; 
+  background-color: #494949;
+  padding: 10px 25px;
+  border-radius: 100px;
+  margin-right: 15px;
+  float: left;
+  margin-top: 60px; 
+  margin-bottom: 30px; 
+}
+.language:hover{
+  background-color:#653BFF;
+}
+
+.calendar {
+  padding-top: 30px;
+}
+
+li {
+  font-family: $font;
+}
+
+ol {
+background-color: $lightgrey;
+padding: 30px;
+padding-left: 60px;
+}
+
+ul {
+background-color: $lightgrey;
+padding: 30px;
+padding-left: 60px;
+}

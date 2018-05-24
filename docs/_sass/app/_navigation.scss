@@ -4,25 +4,32 @@ $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
 .gdm-nav {
-  background-color: $dark;
+  background-color: $secondary;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
+  $color: $light;
 }
 
 .nav-link {
   position: relative;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 400;
+  color: $light;
   &::before {
     display: block;
     left: .5rem;
     opacity: .5;
     position: absolute;
-  }
-  &.active {
-    background-color: $primary;
     color: $light;
   }
+  &.active {
+    background-color: $light;
+    color: $secondary;
+  }
   &.disabled {
-
+    color: $light;
+    background-color: #4129B7;
   }
 }
 

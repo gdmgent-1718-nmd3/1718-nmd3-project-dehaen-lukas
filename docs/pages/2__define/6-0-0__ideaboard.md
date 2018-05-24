@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+
+![ideaboard](../../img/ideaboard.png){: .img}

@@ -6,3 +6,8 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+
+![Visuals watch](../../../img/visualswatch.png){: .img}
+![Mockup](../../../img/mock1.png){: .img}
+![Mockup](../../../img/mock2.png){: .img}
+![Mockup](../../../img/mock3.png){: .img}
