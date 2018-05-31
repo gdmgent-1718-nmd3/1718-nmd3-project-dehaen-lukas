@@ -6,47 +6,39 @@
   time: 3
   task: Briefing
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 15
+  task: Hoorcolleges
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 20
+  task: Werkcolleges
 -
   time: 1
-  task: Lorem ipsum sit dolor amet.
+  task: Elevator Pitch (Design en opvoering)
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 5
+  task: Bezoek museum en verwerking interviews
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 8
+  task: Define fase
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Styletiles
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: Smartwatch-App Wireflow & Screen Designs
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 5
+  task: Smartphone-App Wireflow & Screen Designs
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 10
+  task: Website Sitemap, Wireframes & Screen Designs
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 8
+  task: Opstellen productiedossier
 -
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  time: 1
+  task: Opmaken presentatie voor jury
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 10
+  task: Paper prototypes & gebruikerstesten
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
--
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 200
-  task: Lorem ipsum sit dolor amet.
