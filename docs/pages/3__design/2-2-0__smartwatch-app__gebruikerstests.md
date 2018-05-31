@@ -54,4 +54,4 @@ Digital Prototype
 
 ![digital watch](../../../img/prototypes/digitalwatch.png){: .img}
 
-Vind <a href="https://xd.adobe.com/view/b7670227-fe00-42ec-6ae5-6fc91c2a9500-c156/?hints=off">hier</a> het werkende prototype!
+Vind <a href="https://xd.adobe.com/view/b7670227-fe00-42ec-6ae5-6fc91c2a9500-c156/?hints=off" target="_blank">hier</a> het werkende prototype!

@@ -38,7 +38,7 @@ Digital Prototype
 
 ## Gebruikerstests Digital Prototype
 
-Vind <a href="https://xd.adobe.com/view/c374142f-c16a-47af-59a3-6541065047ad-b545/?hints=off">hier</a> het werkende prototype!
+Vind <a href="https://xd.adobe.com/view/c374142f-c16a-47af-59a3-6541065047ad-b545/?hints=off" target="_blank">hier</a> het werkende prototype!
 
 <div class="row">
     <div class="col-3">
