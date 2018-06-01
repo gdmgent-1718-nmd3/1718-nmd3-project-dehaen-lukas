@@ -57,4 +57,6 @@ Na het beoordelen van het paper prototype tonen we Joren ons prototype voor de s
     </div> 
 </div> 
 
+### Ronald
+
 Ronald beoordeelt net als Joren ook ons digital prototype op mijn smartphone. We leggen hem uit dat dit de lay-out van onze smartphone app zou gaan worden, zonder de opmaak natuurlijk. Hij vindt het fantastisch dat het mogelijk is om dit op deze manier uit te testen. Ronald ziet net als Joren dat er een nieuwe functie is bijgekomen, de functie om tickets online te kopen. Hij vindt dit een zeer interessante mogelijkheid want hij weet hoe onduidelijk het nu is om bij het Bozar tickets aan te kopen. Ronald vindt de functie van de ‘audio guides’ zeer handig, vooral omdat je deze bij de smartphone app ook gewoon zou kunnen lezen. Hij verstaat wel dat dit op de smartwatch versie echter niet haalbaar zou zijn. Ronald is zeker en vast een enthousiaste fan van onze app.
